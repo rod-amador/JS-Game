@@ -15,5 +15,9 @@ Game from IronHack week 3
     Se cambio el sprite del jugador (temporalmente) por una flecha animada
     
  3er entregable:
-    Laberinto más desarrollado
-    Agregar más tiles/efectos
+    Laberinto más desarrollado, se acabo 2/3 partes del laberinto
+    Se agrego imagen para el player
+    Se agrego el tile de evento de transportacion
+    Se creo laberinto de transportaciones
+    Se creo laberinto de hielo
+
