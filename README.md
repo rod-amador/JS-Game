@@ -1,4 +1,4 @@
-# JS-Game
+ # JS-Game
 Game from IronHack week 3
 
 1er entregable:
@@ -21,3 +21,23 @@ Game from IronHack week 3
     Se creo laberinto de transportaciones
     Se creo laberinto de hielo
 
+4to entregable:
+    Se agrego un timer que lleva el tiempo en el que el jugador pasa el juego
+    Se terminó el laberinto
+    Se modifico un poco la sintaxis del código (más legible)
+    
+INFORMACIÓN DEL JUEGO:
+
+Es un laberinto de 900 cuadrados (tiles que cada uno representa 40 pixeles de ancho y 40 de alto)
+Hay distintos tipos de tiles y entre varios se crean diferentes puzzles que el jugador debe pasar
+
+  Tipos de Tiles:
+  1. Acero impasable
+  2. Camino
+  3. Bosque impasable
+  4. Agua impasable
+  5. Hielo, te fuerza a atravesar todos los hielos hasta topar con otro tile
+  6. Conveyors. Tiles que mueven al jugador de lugar, hay uno por cada dirección del teclado (arriba, abajo, izquierda, derecha)
+  7. Eventos. Van desde teletransportar al jugador hasta darle el mensaje de juego terminado
+  
+  
