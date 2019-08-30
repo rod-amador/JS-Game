@@ -44,22 +44,17 @@ body {
   }
   
   
-  section{
+  section h1, ul {
     width: 100%;
     height: auto;
-    display:flex;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-  
-    position: relative;
-    
-  
-  }
-  
-  section p {
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
     position: relative;
     right: 10%;
-    margin-top: 25px;
   }
-  
+
+  section li {
+    position:relative;
+    right: 3%;
+  }
